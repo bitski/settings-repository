@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="PLAIN_TEXT" />
+      <mapping pattern="sshd_config" type="PLAIN_TEXT" />
+      <mapping pattern=".public" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global.swp" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="test4" type="PLAIN_TEXT" />
+      <mapping pattern="parse" type="PLAIN_TEXT" />
+      <mapping pattern="doctrine-dbal" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="cto" type="PLAIN_TEXT" />
+      <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="html5" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
