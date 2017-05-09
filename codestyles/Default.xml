@@ -1,7 +1,4 @@
 <code_scheme name="Default">
-  <PHPCodeStyleSettings>
-    <option name="PHPDOC_USE_FQCN" value="true" />
-  </PHPCodeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
