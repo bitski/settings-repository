@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="6a9a1b8e-e435-44bb-945c-fbb17797c5e9" name="oroe-share-SFTP-Server" url="http://home119046349.1and1-data.host">
+        <fileTransfer host="home119046349.1and1-data.host" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="29792867-e58a-4d4f-8cee-857f79fe1b12" name="Vagrant-VB" url="http://192.168.33.10">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/home/vagrant/www" accessType="SFTP">
           <advancedOptions>
