@@ -1,4 +1,5 @@
 <code_scheme name="Default">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
