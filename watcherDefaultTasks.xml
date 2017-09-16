@@ -1,14 +1,14 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-color $FileName$" />
+      <option name="arguments" value="--no-color $FileName$ $FileParentDir$/css/$FileDirPathFromParent(less)$/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Less" />
-      <option name="output" value="$FileNameWithoutExtension$.css" />
+      <option name="output" value="$FileParentDir$/css/$FileDirPathFromParent(less)$/$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array>
           <FilterInfo>
@@ -18,7 +18,7 @@
           </FilterInfo>
         </array>
       </option>
-      <option name="outputFromStdout" value="true" />
+      <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/AppData/Roaming/npm/lessc.cmd" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
