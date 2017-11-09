@@ -9,14 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="29792867-e58a-4d4f-8cee-857f79fe1b12" name="Vagrant-VB" url="http://192.168.33.10">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/home/vagrant/www" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
