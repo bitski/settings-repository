@@ -23,6 +23,7 @@
       <mapping pattern="parse" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="cto" type="PLAIN_TEXT" />
       <mapping ext="php_bk17052016" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
