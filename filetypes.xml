@@ -9,6 +9,7 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="html5" type="PHP" />
+      <mapping pattern="envvars" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
