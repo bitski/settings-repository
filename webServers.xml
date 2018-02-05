@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="67fe8442-a602-4967-886c-1f16e0d15332" name="portal.rfid-dresden.de" url="http://portal.rfid-dresden.de">
+        <fileTransfer host="portal.rfid-dresden.de" port="22" rootFolder="/www/htdocs/w00e68de/portal.rfid-dresden.de" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="6a9a1b8e-e435-44bb-945c-fbb17797c5e9" name="oroe-share-SFTP-Server" url="http://home119046349.1and1-data.host">
         <fileTransfer host="home119046349.1and1-data.host" port="22" accessType="SFTP">
           <advancedOptions>
