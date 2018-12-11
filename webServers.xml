@@ -17,14 +17,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="7effcf3e-f4e2-4a27-b361-5b86cc0b39f0" name="ant.rfid-dresden.de" url="http://w00e68de.kasserver.com">
-        <fileTransfer host="w00e68de.kasserver.com" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
