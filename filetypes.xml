@@ -1,5 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping ext="lock" type="JSON" />
@@ -9,24 +10,24 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="html5" type="PHP" />
-      <mapping pattern="envvars" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="symfony" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern=".public" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="PLAIN_TEXT" />
+      <mapping pattern="parse" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="test4" type="PLAIN_TEXT" />
+      <mapping pattern="symfony" type="PLAIN_TEXT" />
+      <mapping pattern="envvars" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="doctrine-dbal" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global.swp" type="PLAIN_TEXT" />
-      <mapping pattern="parse" type="PLAIN_TEXT" />
       <mapping ext="cto" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="kdbx" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="php_bk17052016" type="PLAIN_TEXT" />
-      <mapping ext="kdbx" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
