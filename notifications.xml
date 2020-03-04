@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
-    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
-  </component>
-</application>
