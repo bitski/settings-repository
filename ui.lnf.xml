@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="15" />
     <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>
