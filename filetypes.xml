@@ -5,9 +5,9 @@
       <mapping ext="info" type="Ini" />
       <mapping ext="lock" type="JSON" />
       <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="html5" type="PHP" />
-      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="envvars" type="PLAIN_TEXT" />
