@@ -14,6 +14,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="symfony" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern=".public" type="PLAIN_TEXT" />

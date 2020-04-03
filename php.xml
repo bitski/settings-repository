@@ -15,15 +15,15 @@
       <interpreter id="97788fb0-e907-4c6b-bad6-c71fce14fb44" name="Remote PHP 7.2" home="sftp://DATA" debugger_id="php.debugger.XDebug">
         <remote_data WEB_SERVER_CONFIG_ID="29792867-e58a-4d4f-8cee-857f79fe1b12" WEB_SERVER_CONFIG_NAME="Vagrant-VB" WEB_SERVER_CREDENTIALS_ID="sftp://vagrant@127.0.0.1:2222" INTERPRETER_PATH="/usr/bin/php7.2" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter id="5d43028e-87d8-4366-8cc6-236849de0661" name="PHP 7.4" home="C:\Users\Endgegner\AppData\Roaming\PHP\php743\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="5d43028e-87d8-4366-8cc6-236849de0661" name="PHP 7.4" home="C:\Users\Endgegner\AppData\Roaming\PHP\php744\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="C:\Users\Endgegner\AppData\Roaming\PHP\php743\php-cgi.exe" php_cli="C:\Users\Endgegner\AppData\Roaming\PHP\php743\php.exe" path_separator=";" version="7.4.3">
+        <phpinfo binary_type="PHP" php_cgi="C:\Users\Endgegner\AppData\Roaming\PHP\php744\php-cgi.exe" php_cli="C:\Users\Endgegner\AppData\Roaming\PHP\php744\php.exe" path_separator=";" version="7.4.4">
           <additional_php_ini />
-          <configuration_file>C:\Users\Endgegner\AppData\Roaming\PHP\php743\php.ini</configuration_file>
+          <configuration_file>C:\Users\Endgegner\AppData\Roaming\PHP\php744\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
@@ -48,6 +48,7 @@
             <extension name="gd" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
