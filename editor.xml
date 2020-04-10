@@ -23,7 +23,4 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-  </component>
 </application>
