@@ -4,12 +4,12 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping ext="lock" type="JSON" />
-      <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="test" type="PHP" />
-      <mapping ext="html5" type="PHP" />
-      <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="html5" type="PHP" />
       <mapping pattern="envvars" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
@@ -23,17 +23,17 @@
       <mapping pattern="doctrine-dbal" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global.swp" type="PLAIN_TEXT" />
       <mapping pattern="parse" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping ext="cto" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="php_bk17052016" type="PLAIN_TEXT" />
+      <mapping ext="kdbx" type="PLAIN_TEXT" />
+      <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="php_bk17052016" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="kdbx" type="PLAIN_TEXT" />
-      <mapping ext="cto" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
