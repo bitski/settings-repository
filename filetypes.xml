@@ -13,6 +13,7 @@
       <mapping pattern="envvars" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_netns_bak_2019-03-29_18_11" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="symfony" type="PLAIN_TEXT" />
